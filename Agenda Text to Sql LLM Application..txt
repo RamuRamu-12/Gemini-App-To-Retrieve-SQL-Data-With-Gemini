@@ -1,0 +1,14 @@
+Agenda: Text to Sql LLM Application.
+
+prompt --> LLM --> Gemini-pro -->Query -->Sql Database -->Response
+
+
+Implementation:
+
+1.SQlite ---Insert Some records ----can be done using python programming Language.
+
+2.LLM Application  --->talks with Gemini pro ---> LLM fetch data from the sql database.
+
+
+3.
+
