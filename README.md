@@ -17,3 +17,9 @@ Google Generative AI Python Client (google-generativeai)
 SQLite3
 
 python-dotenv for loading environment variables
+
+
+## Sample Image of my project
+
+![image](https://github.com/RamuRamu-12/Retrieve-SQL-Data-With-Gemini/assets/96642590/edc2094f-d9b4-4979-8d5a-66ca7f816a4c)
+
