@@ -1,1 +1,1 @@
-# Gemini-App-To-Retrieve-SQL-Data-With-Gemini
+# Retrieve-SQL-Data-With-Gemini
