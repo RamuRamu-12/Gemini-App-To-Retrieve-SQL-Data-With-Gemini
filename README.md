@@ -9,7 +9,11 @@ Display the query results in a Streamlit web application.
 
 ### Prerequisites
 Python 3.7 or higher
+
 Streamlit
+
 Google Generative AI Python Client (google-generativeai)
+
 SQLite3
+
 python-dotenv for loading environment variables
